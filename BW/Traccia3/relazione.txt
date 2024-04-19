@@ -1,0 +1,1 @@
+scanf si aspetta un indirizzo di memoria come parametro per l'inserimento del valore ricevuto sullo STDIN, eliminando la & viene in realtà passato un valore non inizializzato generando un segmentation fault al primo inserimento.
